@@ -5,6 +5,7 @@
 static void runAllTests(void)
 {
     RUN_TEST_GROUP(led_driver);
+    RUN_TEST_GROUP(button_driver);
 }
 
 void app_main(void)
