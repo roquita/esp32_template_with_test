@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "esp_camera.h": "c",
+        "*.tcc": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "*.ipp": "cpp",
+        "string": "c",
+        "*.inc": "c",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "gpio_periph.h": "c",
+        "unity_fixture.h": "c",
+        "unity.h": "c",
+        "unity_internals.h": "c",
+        "unity_config.h": "c",
+        "unity_fixture_extras.h": "c",
+        "unity_fixture_internals.h": "c",
+        "unity_memory.h": "c",
+        "led_driver.h": "c"
+    }
+}
